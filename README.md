@@ -11,3 +11,11 @@
 **Login Page**
 ![LoginPage](https://github.com/user-attachments/assets/47b6bab9-2acf-42bf-8bc9-6f94b398eafc)
 
+**Login Success Page**
+![LoginSuccess](https://github.com/user-attachments/assets/e44d309e-f763-4e2d-bcf4-96e28ca46a78)
+
+**Enter Data Page**
+
+
+**View Data Page**
+
