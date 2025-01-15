@@ -15,7 +15,8 @@
 ![LoginSuccess](https://github.com/user-attachments/assets/e44d309e-f763-4e2d-bcf4-96e28ca46a78)
 
 **Enter Data Page**
-
+![EnterData](https://github.com/user-attachments/assets/7b3b6a98-4c45-47f5-aa41-b3018a42b004)
 
 **View Data Page**
+
 
